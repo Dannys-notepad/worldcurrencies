@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Currencies API documentation</title>
+    <link rel="stylesheet" href="index.css" type="text/css" media="all" />
+    <style type="text/css" media="all">
+      header h1{
+        padding-top: 9px;
+      }
+      span{
+        font-weight: bold;
+      }
+      a{
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>World Currencies API</h1>
+    </header>
+    <main>
+      <h2 class="introTxt">An API free for developers</h2>
+      <div class="intro">
+        <p>World Currencies is an API to lookup all Currencies around the world, its a free API built with the intent of helping developers with all World Currencies they could intergrate in their projects</p>
+      </div>
+      <div class="usage">
+        <p>A simple <span>GET</span> request can be used to fetch data from the API, via CURL, a Broswer or Postman</p>
+      </div>
+      <div class="usage">
+        <h2>Getting Currencies</h2>
+        <h3>Getting all</h3>
+        <p><span>URL:</span> https://worldcurrencies-api.onrender.com/api/currencies</p>
+        <p>Returns a json response with all available currencies, including their abbreviations, symbols and fullname</p>
+        <h2>Requesting With a limit</h2>
+        <p><span>URL:</span> https://worldcurrencies-api.onrender.com/api/currencies/limit/:limit</p>
+        <p><span>Example:</span> https://worldcurrencies-api.onrender.com/api/currencies/limit/15</p>
+        <p>Returns numbers of currncies specified in the limit</p>
+        <h2>Searching Currencies</h2>
+        <p>Currencies can be searched for in two ways</p>
+        <ol>
+          <li>Through their Abbreviation</li>
+          <li>Through their Name</li>
+        </ol>
+        <h3>Searching With Abbreviation</h3>
+        <p><span>URL:</span> https://worldcurrencies-api.onrender.com/api/currencies/search/:abb</p>
+        <p><span>Example:</span> https://worldcurrencies-api.onrender.com/api/currencies/search/ngn</p>
+        <p>Returns the specified currency and its properties</p>
+        <p>Returns a <span>404 response</span> if the searched currency was not found</p>
+        <h3>Searching With Currency Name</h3>
+        <p><span>URL:</span> https://worldcurrencies-api.onrender.com/api/currencies/search/:name</p>
+        <p><span>Example:</span> https://worldcurrencies-api.onrender.com/api/currencies/search/nigeriannaira</p>
+        <p>Returns the specified currency and its properties</p>
+        <p>Returns a <span>404 response</span> if the searched currency was not found</p>
+      </div>
+    </main>
+    <footer>
+      <p>Its open source so if you've got a feature you'd love to add feel free to.  <a href="https://github.com/Dannys-notepad/worldcurrencies">Link to repo</a>, give the repo a star if you like it</p>
+      <p>Copyright &copy; 2024</p>
+    </footer>
+  </body>
+</html>
