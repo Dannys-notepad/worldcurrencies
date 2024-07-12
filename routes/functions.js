@@ -23,7 +23,7 @@ async function searchCurrency(req, res){
   let result = []
   
   if(word.length === 3){
-    result = dataB.filter(d => d.currencyAbbriviation === word.toUpperCase())
+    result = dataB.filter(d => d.currencyabbriviation === word.toUpperCase())
     if(result.length === 0 ){
       return res.status(404)
                 .json({msg:`No currency with abbrevation ${word} was found`})
