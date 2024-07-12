@@ -1,212 +1,1136 @@
 [
     {
         "id": "1",
-        "currencyAbbriviation": "AED",
+        "currencyabbriviation": "AED",
         "fullmeaning": "United Arab Emirates Dirham",
-        "currencySymbol": "د.إ",
-        "currencyImageURL": ""
+        "currencysymbol": "د.إ",
+        "currencyimageurl": ""
     },
     {
         "id": "2",
-        "currencyAbbriviation": "AFN",
+        "currencyabbriviation": "AFN",
         "fullmeaning": "Afghan Afghani",
-        "currencySymbol": "؋",
-        "currencyImageURL": ""
+        "currencysymbol": "؋",
+        "currencyimageurl": ""
     },
     {
         "id": "3",
-        "currencyAbbriviation": "ALL",
+        "currencyabbriviation": "ALL",
         "fullmeaning": "Albanian Lek",
-        "currencySymbol": "L",
-        "currencyImageURL": ""
+        "currencysymbol": "L",
+        "currencyimageurl": ""
     },
     {
         "id": "4",
-        "currencyAbbriviation": "AMD",
+        "currencyabbriviation": "AMD",
         "fullmeaning": "Armenian Dram",
-        "currencySymbol": "֏",
-        "currencyImageURL": ""
+        "currencysymbol": "֏",
+        "currencyimageurl": ""
     },
     {
         "id": "5",
-        "currencyAbbriviation": "ANG",
+        "currencyabbriviation": "ANG",
         "fullmeaning": "Netherlands Antillean Guilder",
-        "currencySymbol": "ƒ",
-        "currencyImageURL": ""
+        "currencysymbol": "ƒ",
+        "currencyimageurl": ""
     },
     {
         "id": "6",
-        "currencyAbbriviation": "AOA",
+        "currencyabbriviation": "AOA",
         "fullmeaning": "Angolan Kwanza",
-        "currencySymbol": "Kz",
-        "currencyImageURL": ""
+        "currencysymbol": "Kz",
+        "currencyimageurl": ""
     },
     {
         "id": "7",
-        "currencyAbbriviation": "ARS",
+        "currencyabbriviation": "ARS",
         "fullmeaning": "Argentine Peso",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "8",
-        "currencyAbbriviation": "AUD",
+        "currencyabbriviation": "AUD",
         "fullmeaning": "Australian Dollar",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "9",
-        "currencyAbbriviation": "AWG",
+        "currencyabbriviation": "AWG",
         "fullmeaning": "Aruban Florin",
-        "currencySymbol": "ƒ",
-        "currencyImageURL": ""
+        "currencysymbol": "ƒ",
+        "currencyimageurl": ""
     },
     {
         "id": "10",
-        "currencyAbbriviation": "AZN",
+        "currencyabbriviation": "AZN",
         "fullmeaning": "Azerbaijani Manat",
-        "currencySymbol": "₼",
-        "currencyImageURL": ""
+        "currencysymbol": "₼",
+        "currencyimageurl": ""
     },
     {
         "id": "11",
-        "currencyAbbriviation": "BAM",
+        "currencyabbriviation": "BAM",
         "fullmeaning": "Bosnia-Herzegovina Convertible Mark",
-        "currencySymbol": "KM",
-        "currencyImageURL": ""
+        "currencysymbol": "KM",
+        "currencyimageurl": ""
     },
     {
         "id": "12",
-        "currencyAbbriviation": "BBD",
+        "currencyabbriviation": "BBD",
         "fullmeaning": "Barbadian Dollar",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "13",
-        "currencyAbbriviation": "BDT",
+        "currencyabbriviation": "BDT",
         "fullmeaning": "Bangladeshi Taka",
-        "currencySymbol": "৳",
-        "currencyImageURL": ""
+        "currencysymbol": "৳",
+        "currencyimageurl": ""
     },
     {
         "id": "14",
-        "currencyAbbriviation": "BGN",
+        "currencyabbriviation": "BGN",
         "fullmeaning": "Bulgarian Lev",
-        "currencySymbol": "лв",
-        "currencyImageURL": ""
+        "currencysymbol": "лв",
+        "currencyimageurl": ""
     },
     {
         "id": "15",
-        "currencyAbbriviation": "BHD",
+        "currencyabbriviation": "BHD",
         "fullmeaning": "Bahraini Dinar",
-        "currencySymbol": ".د.ب",
-        "currencyImageURL": ""
+        "currencysymbol": ".د.ب",
+        "currencyimageurl": ""
     },
     {
         "id": "16",
-        "currencyAbbriviation": "BIF",
+        "currencyabbriviation": "BIF",
         "fullmeaning": "Burundian Franc",
-        "currencySymbol": "FBu",
-        "currencyImageURL": ""
+        "currencysymbol": "FBu",
+        "currencyimageurl": ""
     },
     {
         "id": "17",
-        "currencyAbbriviation": "BMD",
+        "currencyabbriviation": "BMD",
         "fullmeaning": "Bermudian Dollar",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "18",
-        "currencyAbbriviation": "BND",
+        "currencyabbriviation": "BND",
         "fullmeaning": "Brunei Dollar",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "19",
-        "currencyAbbriviation": "BOB",
+        "currencyabbriviation": "BOB",
         "fullmeaning": "Bolivian Boliviano",
-        "currencySymbol": "Bs.",
-        "currencyImageURL": ""
+        "currencysymbol": "Bs.",
+        "currencyimageurl": ""
     },
     {
         "id": "20",
-        "currencyAbbriviation": "BRL",
+        "currencyabbriviation": "BRL",
         "fullmeaning": "Brazilian Real",
-        "currencySymbol": "R$",
-        "currencyImageURL": ""
+        "currencysymbol": "R$",
+        "currencyimageurl": ""
     },
     {
         "id": "21",
-        "currencyAbbriviation": "BSD",
+        "currencyabbriviation": "BSD",
         "fullmeaning": "Bahamian Dollar",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "22",
-        "currencyAbbriviation": "BTN",
+        "currencyabbriviation": "BTN",
         "fullmeaning": "Bhutanese Ngultrum",
-        "currencySymbol": "Nu.",
-        "currencyImageURL": ""
+        "currencysymbol": "Nu.",
+        "currencyimageurl": ""
     },
     {
         "id": "23",
-        "currencyAbbriviation": "BWP",
+        "currencyabbriviation": "BWP",
         "fullmeaning": "Botswana Pula",
-        "currencySymbol": "P",
-        "currencyImageURL": ""
+        "currencysymbol": "P",
+        "currencyimageurl": ""
     },
     {
         "id": "24",
-        "currencyAbbriviation": "BYN",
+        "currencyabbriviation": "BYN",
         "fullmeaning": "Belarusian Ruble",
-        "currencySymbol": "Br",
-        "currencyImageURL": ""
+        "currencysymbol": "Br",
+        "currencyimageurl": ""
     },
     {
         "id": "25",
-        "currencyAbbriviation": "BZD",
+        "currencyabbriviation": "BZD",
         "fullmeaning": "Belize Dollar",
-        "currencySymbol": "BZ$",
-        "currencyImageURL": ""
+        "currencysymbol": "BZ$",
+        "currencyimageurl": ""
     },
     {
         "id": "26",
-        "currencyAbbriviation": "CAD",
+        "currencyabbriviation": "CAD",
         "fullmeaning": "Canadian Dollar",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "27",
-        "currencyAbbriviation": "CDF",
+        "currencyabbriviation": "CDF",
         "fullmeaning": "Congolese Franc",
-        "currencySymbol": "FC",
-        "currencyImageURL": ""
+        "currencysymbol": "FC",
+        "currencyimageurl": ""
     },
     {
         "id": "28",
-        "currencyAbbriviation": "CHF",
+        "currencyabbriviation": "CHF",
         "fullmeaning": "Swiss Franc",
-        "currencySymbol": "Fr.",
-        "currencyImageURL": ""
+        "currencysymbol": "Fr.",
+        "currencyimageurl": ""
     },
     {
         "id": "29",
-        "currencyAbbriviation": "CLP",
+        "currencyabbriviation": "CLP",
         "fullmeaning": "Chilean Peso",
-        "currencySymbol": "$",
-        "currencyImageURL": ""
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     },
     {
         "id": "30",
-        "currencyAbbriviation": "CNY",
+        "currencyabbriviation": "CNY",
         "fullmeaning": "Chinese Yuan",
-        "currencySymbol": "¥",
-        "currencyImageURL": ""
+        "currencysymbol": "¥",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "31",
+        "currencyabbriviation": "COP",
+        "fullmeaning": "Colombian Peso",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "32",
+        "currencyabbriviation": "CRC",
+        "fullmeaning": "Costa Rican Colón",
+        "currencysymbol": "₡",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "33",
+        "currencyabbriviation": "CUP",
+        "fullmeaning": "Cuban Peso",
+        "currencysymbol": "₱",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "34",
+        "currencyabbriviation": "CVE",
+        "fullmeaning": "Cape Verdean Escudo",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "35",
+        "currencyabbriviation": "CZK",
+        "fullmeaning": "Czech Koruna",
+        "currencysymbol": "Kč",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "36",
+        "currencyabbriviation": "DJF",
+        "fullmeaning": "Djiboutian Franc",
+        "currencysymbol": "Fdj",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "37",
+        "currencyabbriviation": "DKK",
+        "fullmeaning": "Danish Krone",
+        "currencysymbol": "kr",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "38",
+        "currencyabbriviation": "DOP",
+        "fullmeaning": "Dominican Peso",
+        "currencysymbol": "RD$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "39",
+        "currencyabbriviation": "DZD",
+        "fullmeaning": "Algerian Dinar",
+        "currencysymbol": "د.ج",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "40",
+        "currencyabbriviation": "EGP",
+        "fullmeaning": "Egyptian Pound",
+        "currencys\n\nymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "41",
+        "currencyabbriviation": "ERN",
+        "fullmeaning": "Eritrean Nakfa",
+        "currencysymbol": "Nfk",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "42",
+        "currencyabbriviation": "ETB",
+        "fullmeaning": "Ethiopian Birr",
+        "currencysymbol": "Br",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "43",
+        "currencyabbriviation": "EUR",
+        "fullmeaning": "Euro",
+        "currencysymbol": "€",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "44",
+        "currencyabbriviation": "FJD",
+        "fullmeaning": "Fijian Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "45",
+        "currencyabbriviation": "FKP",
+        "fullmeaning": "Falkland Islands Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "46",
+        "currencyabbriviation": "FOK",
+        "fullmeaning": "Faroese Króna",
+        "currencysymbol": "kr",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "47",
+        "currencyabbriviation": "GBP",
+        "fullmeaning": "British Pound Sterling",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "48",
+        "currencyabbriviation": "GEL",
+        "fullmeaning": "Georgian Lari",
+        "currencysymbol": "₾",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "49",
+        "currencyabbriviation": "GGP",
+        "fullmeaning": "Guernsey Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "50",
+        "currencyabbriviation": "GHS",
+        "fullmeaning": "Ghanaian Cedi",
+        "currencysymbol": "₵",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "51",
+        "currencyabbriviation": "GIP",
+        "fullmeaning": "Gibraltar Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "52",
+        "currencyabbriviation": "GMD",
+        "fullmeaning": "Gambian Dalasi",
+        "currencysymbol": "D",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "53",
+        "currencyabbriviation": "GNF",
+        "fullmeaning": "Guinean Franc",
+        "currencysymbol": "FG",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "54",
+        "currencyabbriviation": "GTQ",
+        "fullmeaning": "Guatemalan Quetzal",
+        "currencysymbol": "Q",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "55",
+        "currencyabbriviation": "GYD",
+        "fullmeaning": "Guyanaese Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "56",
+        "currencyabbriviation": "HKD",
+        "fullmeaning": "Hong Kong Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "57",
+        "currencyabbriviation": "HNL",
+        "fullmeaning": "Honduran Lempira",
+        "currencysymbol": "L",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "58",
+        "currencyabbriviation": "HRK",
+        "fullmeaning": "Croatian Kuna",
+        "currencysymbol": "kn",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "59",
+        "currencyabbriviation": "HTG",
+        "fullmeaning": "Haitian Gourde",
+        "currencysymbol": "G",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "60",
+        "currencyabbriviation": "HUF",
+        "fullmeaning": "Hungarian Forint",
+        "currencysymbol": "Ft",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "61",
+        "currencyabbriviation": "IDR",
+        "fullmeaning": "Indonesian Rupiah",
+        "currencysymbol": "Rp",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "62",
+        "currencyabbriviation": "ILS",
+        "fullmeaning": "Israeli New Shekel",
+        "currencysymbol": "₪",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "63",
+        "currencyabbriviation": "IMP",
+        "fullmeaning": "Isle of Man Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "64",
+        "currencyabbriviation": "INR",
+        "fullmeaning": "Indian Rupee",
+        "currencysymbol": "₹",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "65",
+        "currencyabbriviation": "IQD",
+        "fullmeaning": "Iraqi Dinar",
+        "currencysymbol": "ع.د",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "66",
+        "currencyabbriviation": "IRR",
+        "fullmeaning": "Iranian Rial",
+        "currencysymbol": "﷼",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "67",
+        "currencyabbriviation": "ISK",
+        "fullmeaning": "Icelandic Króna",
+        "currencysymbol": "kr",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "68",
+        "currencyabbriviation": "JEP",
+        "fullmeaning": "Jersey Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "69",
+        "currencyabbriviation": "JMD",
+        "fullmeaning": "Jamaican Dollar",
+        "currencysymbol": "J$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "70",
+        "currencyabbriviation": "JOD",
+        "fullmeaning": "Jordanian Dinar",
+        "currencysymbol": "د.ا",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "71",
+        "currencyabbriviation": "JPY",
+        "fullmeaning": "Japanese Yen",
+        "currencysymbol": "¥",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "72",
+        "currencyabbriviation": "KES",
+        "fullmeaning": "Kenyan Shilling",
+        "currencysymbol": "Sh",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "73",
+        "currencyabbriviation": "KGS",
+        "fullmeaning": "Kyrgyzstani Som",
+        "currencysymbol": "с",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "74",
+        "currencyabbriviation": "KHR",
+        "fullmeaning": "Cambodian Riel",
+        "currencysymbol": "៛",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "75",
+        "currencyabbriviation": "KID",
+        "fullmeaning": "Kiribati Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "76",
+        "currencyabbriviation": "KMF",
+        "fullmeaning": "Comorian Franc",
+        "currencysymbol": "CF",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "77",
+        "currencyabbriviation": "KPW",
+        "fullmeaning": "North Korean Won",
+        "currencysymbol": "₩",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "78",
+        "currencyabbriviation": "KRW",
+        "fullmeaning": "South Korean Won",
+        "currencysymbol": "₩",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "79",
+        "currencyabbriviation": "KWD",
+        "fullmeaning": "Kuwaiti Dinar",
+        "currencysymbol": "د.ك",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "80",
+        "currencyabbriviation": "KYD",
+        "fullmeaning": "Cayman Islands Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "81",
+        "currencyabbriviation\n\n": "KZT",
+        "fullmeaning": "Kazakhstani Tenge",
+        "currencysymbol": "₸",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "82",
+        "currencyabbriviation": "LAK",
+        "fullmeaning": "Laotian Kip",
+        "currencysymbol": "₭",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "83",
+        "currencyabbriviation": "LBP",
+        "fullmeaning": "Lebanese Pound",
+        "currencysymbol": "ل.ل",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "84",
+        "currencyabbriviation": "LKR",
+        "fullmeaning": "Sri Lankan Rupee",
+        "currencysymbol": "Rs",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "85",
+        "currencyabbriviation": "LRD",
+        "fullmeaning": "Liberian Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "86",
+        "currencyabbriviation": "LSL",
+        "fullmeaning": "Lesotho Loti",
+        "currencysymbol": "L",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "87",
+        "currencyabbriviation": "LYD",
+        "fullmeaning": "Libyan Dinar",
+        "currencysymbol": "ل.د",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "88",
+        "currencyabbriviation": "MAD",
+        "fullmeaning": "Moroccan Dirham",
+        "currencysymbol": "د.م.",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "89",
+        "currencyabbriviation": "MDL",
+        "fullmeaning": "Moldovan Leu",
+        "currencysymbol": "L",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "90",
+        "currencyabbriviation": "MGA",
+        "fullmeaning": "Malagasy Ariary",
+        "currencysymbol": "Ar",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "91",
+        "currencyabbriviation": "MKD",
+        "fullmeaning": "Macedonian Denar",
+        "currencysymbol": "ден",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "92",
+        "currencyabbriviation": "MMK",
+        "fullmeaning": "Myanmar Kyat",
+        "currencysymbol": "K",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "93",
+        "currencyabbriviation": "MNT",
+        "fullmeaning": "Mongolian Tugrik",
+        "currencysymbol": "₮",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "94",
+        "currencyabbriviation": "MOP",
+        "fullmeaning": "Macanese Pataca",
+        "currencysymbol": "P",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "95",
+        "currencyabbriviation": "MRU",
+        "fullmeaning": "Mauritanian Ouguiya",
+        "currencysymbol": "UM",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "96",
+        "currencyabbriviation": "MUR",
+        "fullmeaning": "Mauritian Rupee",
+        "currencysymbol": "₨",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "97",
+        "currencyabbriviation": "MVR",
+        "fullmeaning": "Maldivian Rufiyaa",
+        "currencysymbol": "ރ.",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "98",
+        "currencyabbriviation": "MWK",
+        "fullmeaning": "Malawian Kwacha",
+        "currencysymbol": "MK",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "99",
+        "currencyabbriviation": "MXN",
+        "fullmeaning": "Mexican Peso",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "100",
+        "currencyabbriviation": "MYR",
+        "fullmeaning": "Malaysian Ringgit",
+        "currencysymbol": "RM",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "101",
+        "currencyabbriviation": "MZN",
+        "fullmeaning": "Mozambican Metical",
+        "currencysymbol": "MT",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "102",
+        "currencyabbriviation": "NAD",
+        "fullmeaning": "Namibian Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "103",
+        "currencyabbriviation": "NGN",
+        "fullmeaning": "Nigerian Naira",
+        "currencysymbol": "₦",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "104",
+        "currencyabbriviation": "NIO",
+        "fullmeaning": "Nicaraguan Córdoba",
+        "currencysymbol": "C$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "105",
+        "currencyabbriviation": "NOK",
+        "fullmeaning": "Norwegian Krone",
+        "currencysymbol": "kr",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "106",
+        "currencyabbriviation": "NPR",
+        "fullmeaning": "Nepalese Rupee",
+        "currencysymbol": "रू",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "107",
+        "currencyabbriviation": "NZD",
+        "fullmeaning": "New Zealand Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "108",
+        "currencyabbriviation": "OMR",
+        "fullmeaning": "Omani Rial",
+        "currencysymbol": "ر.ع.",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "109",
+        "currencyabbriviation": "PAB",
+        "fullmeaning": "Panamanian Balboa",
+        "currencysymbol": "B\/.",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "110",
+        "currencyabbriviation": "PEN",
+        "fullmeaning": "Peruvian Nuevo Sol",
+        "currencysymbol": "S\/.",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "111",
+        "currencyabbriviation": "PGK",
+        "fullmeaning": "Papua New Guinean Kina",
+        "currencysymbol": "K",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "112",
+        "currencyabbriviation": "PHP",
+        "fullmeaning": "Philippine Peso",
+        "currencysymbol": "₱",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "113",
+        "currencyabbriviation": "PKR",
+        "fullmeaning": "Pakistani Rupee",
+        "currencysymbol": "₨",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "114",
+        "currencyabbriviation": "PLN",
+        "fullmeaning": "Polish Złoty",
+        "currencysymbol": "zł",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "115",
+        "currencyabbriviation": "PYG",
+        "fullmeaning": "Paraguayan Guarani",
+        "currencysymbol": "₲",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "116",
+        "currencyabbriviation": "QAR",
+        "fullmeaning": "Qatari Riyal",
+        "currencysymbol": "ر.ق",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "117",
+        "currencyabbriviation": "RON",
+        "fullmeaning": "Romanian Leu",
+        "currencysymbol": "lei",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "118",
+        "currencyabbriviation": "RSD",
+        "fullmeaning": "Serbian Dinar",
+        "currencysymbol": "дин",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "119",
+        "currencyabbriviation": "RUB",
+        "fullmeaning": "Russian Ruble",
+        "currencysymbol": "₽",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "120",
+        "currencyabbriviation": "RWF",
+        "fullmeaning": "Rwandan Franc",
+        "currencysymbol": "FRw",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "121",
+        "currencyabbriviation": "SAR",
+        "fullmeaning": "Saudi Riyal",
+        "currencysymbol": "ر.س",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "122",
+        "currencyabbriviation": "SBD",
+        "fullmeaning": "Solomon Islands Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "123",
+        "currencyabbriviation": "SCR",
+        "fullmeaning": "Seychellois Rupee",
+        "currencysymbol": "₨",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "124",
+        "currencyabbriviation": "SDG",
+        "fullmeaning": "Sudanese Pound",
+        "currencysymbol": "SD",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "125",
+        "currencyabbriviation": "SEK",
+        "fullmeaning": "Swedish Krona",
+        "currencysymbol": "kr",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "126",
+        "currencyabbriviation": "SGD",
+        "fullmeaning": "Singapore Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "127",
+        "currencyabbriviation": "SHP",
+        "fullmeaning": "Saint Helena Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "128",
+        "currencyabbriviation": "SLL",
+        "fullmeaning": "Sierra Leonean Leone",
+        "currencysymbol": "Le",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "129",
+        "currencyabbriviation": "SOS",
+        "fullmeaning": "Somali Shilling",
+        "currencysymbol": "Sh",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "130",
+        "currencyabbriviation": "SRD",
+        "fullmeaning": "Surinamese Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "131",
+        "currencyabbriviation": "SSP",
+        "fullmeaning": "South Sudanese Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "132",
+        "currencyabbriviation": "STN",
+        "fullmeaning": "São Tomé and Príncipe Dobra",
+        "currencysymbol": "Db",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "133",
+        "currencyabbriviation": "SYP",
+        "fullmeaning": "Syrian Pound",
+        "currencysymbol": "£",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "134",
+        "currencyabbriviation": "SZL",
+        "fullmeaning": "Swazi Lilangeni",
+        "currencysymbol": "L",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "135",
+        "currencyabbriviation": "THB",
+        "fullmeaning": "Thai Baht",
+        "currencysymbol": "฿",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "136",
+        "currencyabbriviation": "TJS",
+        "fullmeaning": "Tajikistani Somoni",
+        "currencysymbol": "ЅМ",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "137",
+        "currencyabbriviation": "TMT",
+        "fullmeaning": "Turkmenistani Manat",
+        "currencysymbol": "m",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "138",
+        "currencyabbriviation": "TND",
+        "fullmeaning": "Tunisian Dinar",
+        "currencysymbol": "د.ت",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "139",
+        "currencyabbriviation": "TOP",
+        "fullmeaning": "Tongan Pa'anga",
+        "currencysymbol": "T$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "140",
+        "currencyabbriviation": "TRY",
+        "fullmeaning": "Turkish Lira",
+        "currencysymbol": "₺",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "141",
+        "currencyabbriviation": "TTD",
+        "fullmeaning": "Trinidad and Tobago Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "142",
+        "currencyabbriviation": "TVD",
+        "fullmeaning": "Tuvaluan Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "143",
+        "currencyabbriviation": "TWD",
+        "fullmeaning": "New Taiwan Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "144",
+        "currencyabbriviation": "TZS",
+        "fullmeaning": "Tanzanian Shilling",
+        "currencysymbol": "Sh",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "145",
+        "currencyabbriviation": "UAH",
+        "fullmeaning": "Ukrainian Hryvnia",
+        "currencysymbol": "₴",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "146",
+        "currencyabbriviation": "UGX",
+        "fullmeaning": "Ugandan Shilling",
+        "currencysymbol": "USh",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "147",
+        "currencyabbriviation": "USD",
+        "fullmeaning": "United States Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "148",
+        "currencyabbriviation": "UYU",
+        "fullmeaning": "Uruguayan Peso",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "149",
+        "currencyabbriviation": "UZS",
+        "fullmeaning": "Uzbekistani Som",
+        "currencysymbol": "лв",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "150",
+        "currencyabbriviation": "VES",
+        "fullmeaning": "Venezuelan Bolívar Soberano",
+        "currencysymbol": "Bs",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "151",
+        "currencyabbriviation": "VND",
+        "fullmeaning": "Vietnamese Đồng",
+        "currencysymbol": "₫",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "152",
+        "currencyabbriviation": "VUV",
+        "fullmeaning": "Vanuatu Vatu",
+        "currencysymbol": "VT",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "153",
+        "currencyabbriviation": "WST",
+        "fullmeaning": "Samoan Tala",
+        "currencysymbol": "T",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "154",
+        "currencyabbriviation": "XAF",
+        "fullmeaning": "Central African CFA Franc",
+        "currencysymbol": "FCFA",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "155",
+        "currencyabbriviation": "XCD",
+        "fullmeaning": "East Caribbean Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "156",
+        "currencyabbriviation": "XDR",
+        "fullmeaning": "Special Drawing Rights",
+        "currencysymbol": "SDR",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "157",
+        "currencyabbriviation": "XOF",
+        "fullmeaning": "West African CFA franc",
+        "currencysymbol": "CFA",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "158",
+        "currencyabbriviation": "XPF",
+        "fullmeaning": "CFP Franc",
+        "currencysymbol": "₣",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "159",
+        "currencyabbriviation": "YER",
+        "fullmeaning": "Yemeni Rial",
+        "currencysymbol": "﷼",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "160",
+        "currencyabbriviation": "ZAR",
+        "fullmeaning": "South African Rand",
+        "currencysymbol": "R",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "161",
+        "currencyabbriviation": "ZMW",
+        "fullmeaning": "Zambian Kwacha",
+        "currencysymbol": "ZK",
+        "currencyimageurl": ""
+    },
+    {
+        "id": "162",
+        "currencyabbriviation": "ZWL",
+        "fullmeaning": "Zimbabwean Dollar",
+        "currencysymbol": "$",
+        "currencyimageurl": ""
     }
 ]
